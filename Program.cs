@@ -6,6 +6,7 @@ namespace NumbersGame
     {
         static void StartSequence()
         {
+            Console.WriteLine("Welcome to my game! Let's do some math!");
             try
             {   
                 Console.Write("Please enter a number greater than zero ");

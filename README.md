@@ -13,3 +13,7 @@
 2. How do I run the program? Just press F5 or the play button.
 3. What does the program look like? basically it is a console app, so a console window will pop up and prompt you to enter a couple of numbers, then it will show you the output of the methods.
 ---
+## Image after the program runs
+![Image](./app.jpg)
+
+---
