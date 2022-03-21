@@ -17,6 +17,8 @@ namespace NumbersGame
                 {
                     Console.Write("Please enter a number greater than zero ");
                     number = Convert.ToInt32(Console.ReadLine());
+                    if (number > 0) flag = false;
+
                 }
                 int[] arr = new int[number];
             
@@ -32,7 +34,6 @@ namespace NumbersGame
 
                 int sum = GetSum(arr);
                 int product = GetProduct(arr, sum);
-                // Needs a throw.
                 decimal quotient = GetQuotient(product);
                 Console.WriteLine($"Your array is size: {number}");
                 Console.Write("The numbers in the array are ");
@@ -45,12 +46,12 @@ namespace NumbersGame
             catch (FormatException)
             {
                 Console.WriteLine("Sorry, Wrong foramt!");
-
             }
-            catch (IndexOutOfRangeException) 
+            
+            // Update Catch new throw.
+            catch(Exception e)
             {
-                Console.WriteLine("Index out of bounds!");
-
+                Console.WriteLine(e.Message);
             }
             finally
             {
@@ -80,7 +81,11 @@ namespace NumbersGame
             {
                 sum += arr[i];
             }
-            
+            // Update throw.
+            if (sum < 20)
+            {
+                throw new Exception($"Value of {sum} is too low");
+            }
             return sum;
         }
 
@@ -110,7 +115,15 @@ namespace NumbersGame
 
         public static void Main(string[] args)
         {
+            // Update throw for index out of range.
+            try
+            {
             StartSequence();
+            }
+            catch (IndexOutOfRangeException)
+            {
+                Console.WriteLine("Index out of bounds!");
+            }
         }
     }
 }

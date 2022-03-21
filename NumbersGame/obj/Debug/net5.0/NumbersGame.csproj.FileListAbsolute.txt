@@ -1,0 +1,32 @@
+C:\Users\acer\source\repos\NumbersGame\bin\Debug\net5.0\NumbersGame.exe
+C:\Users\acer\source\repos\NumbersGame\bin\Debug\net5.0\NumbersGame.deps.json
+C:\Users\acer\source\repos\NumbersGame\bin\Debug\net5.0\NumbersGame.runtimeconfig.json
+C:\Users\acer\source\repos\NumbersGame\bin\Debug\net5.0\NumbersGame.runtimeconfig.dev.json
+C:\Users\acer\source\repos\NumbersGame\bin\Debug\net5.0\NumbersGame.dll
+C:\Users\acer\source\repos\NumbersGame\bin\Debug\net5.0\ref\NumbersGame.dll
+C:\Users\acer\source\repos\NumbersGame\bin\Debug\net5.0\NumbersGame.pdb
+C:\Users\acer\source\repos\NumbersGame\obj\Debug\net5.0\NumbersGame.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\NumbersGame\obj\Debug\net5.0\NumbersGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\NumbersGame\obj\Debug\net5.0\NumbersGame.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\NumbersGame\obj\Debug\net5.0\NumbersGame.AssemblyInfo.cs
+C:\Users\acer\source\repos\NumbersGame\obj\Debug\net5.0\NumbersGame.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\NumbersGame\obj\Debug\net5.0\NumbersGame.dll
+C:\Users\acer\source\repos\NumbersGame\obj\Debug\net5.0\ref\NumbersGame.dll
+C:\Users\acer\source\repos\NumbersGame\obj\Debug\net5.0\NumbersGame.pdb
+C:\Users\acer\source\repos\NumbersGame\obj\Debug\net5.0\NumbersGame.genruntimeconfig.cache
+C:\Users\acer\Advanced dotNET\Lab01-Numbers-Game\NumbersGame\bin\Debug\net5.0\NumbersGame.exe
+C:\Users\acer\Advanced dotNET\Lab01-Numbers-Game\NumbersGame\bin\Debug\net5.0\NumbersGame.deps.json
+C:\Users\acer\Advanced dotNET\Lab01-Numbers-Game\NumbersGame\bin\Debug\net5.0\NumbersGame.runtimeconfig.json
+C:\Users\acer\Advanced dotNET\Lab01-Numbers-Game\NumbersGame\bin\Debug\net5.0\NumbersGame.runtimeconfig.dev.json
+C:\Users\acer\Advanced dotNET\Lab01-Numbers-Game\NumbersGame\bin\Debug\net5.0\NumbersGame.dll
+C:\Users\acer\Advanced dotNET\Lab01-Numbers-Game\NumbersGame\bin\Debug\net5.0\ref\NumbersGame.dll
+C:\Users\acer\Advanced dotNET\Lab01-Numbers-Game\NumbersGame\bin\Debug\net5.0\NumbersGame.pdb
+C:\Users\acer\Advanced dotNET\Lab01-Numbers-Game\NumbersGame\obj\Debug\net5.0\NumbersGame.csproj.AssemblyReference.cache
+C:\Users\acer\Advanced dotNET\Lab01-Numbers-Game\NumbersGame\obj\Debug\net5.0\NumbersGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Advanced dotNET\Lab01-Numbers-Game\NumbersGame\obj\Debug\net5.0\NumbersGame.AssemblyInfoInputs.cache
+C:\Users\acer\Advanced dotNET\Lab01-Numbers-Game\NumbersGame\obj\Debug\net5.0\NumbersGame.AssemblyInfo.cs
+C:\Users\acer\Advanced dotNET\Lab01-Numbers-Game\NumbersGame\obj\Debug\net5.0\NumbersGame.csproj.CoreCompileInputs.cache
+C:\Users\acer\Advanced dotNET\Lab01-Numbers-Game\NumbersGame\obj\Debug\net5.0\NumbersGame.dll
+C:\Users\acer\Advanced dotNET\Lab01-Numbers-Game\NumbersGame\obj\Debug\net5.0\ref\NumbersGame.dll
+C:\Users\acer\Advanced dotNET\Lab01-Numbers-Game\NumbersGame\obj\Debug\net5.0\NumbersGame.pdb
+C:\Users\acer\Advanced dotNET\Lab01-Numbers-Game\NumbersGame\obj\Debug\net5.0\NumbersGame.genruntimeconfig.cache
